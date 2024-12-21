@@ -101,3 +101,7 @@ footer div a {
     color: whitesmoke;
     text-decoration: none;
 }
+
+a {
+    text-decoration: none;
+}
